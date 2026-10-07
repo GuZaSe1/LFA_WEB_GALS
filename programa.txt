@@ -1,0 +1,32 @@
+A = 10;
+B = 11;
+
+C = A + B;
+Show(C);
+
+D = C - 1;
+Show(D);
+
+E = A * B;
+Show(E);
+
+F = E / A;
+Show(F);
+
+G = A ^ B;
+Show(G);
+
+H = log(1000);
+Show(H);
+
+I = 1 + 10 * 11;
+Show(I);
+
+J = (1 + 10) * 11;
+Show(J);
+
+K = 111 + A * B;
+Show(K);
+
+Show(A + B);
+Show((A + B) * 10);
